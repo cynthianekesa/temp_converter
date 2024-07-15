@@ -8,9 +8,9 @@ This is a simple temperature converter app that converts temperature from Celciu
 https://drive.google.com/file/d/1Fz7IpGVxBF1rwlPDqEBsrZ8DUqZFgcsU/view?usp=sharing
 
 ## Prerequisites
-*Install flutter on your local machine.
-*Install Android studio/vs code and set it up accordingly.
+* Install flutter on your local machine.
+* Install Android studio/vs code and set it up accordingly.
 
 ## Installation
-*Clone the whole repository and launch the app on your emulator, or preferably turn it into an apk and install it on your Android. 
-*You can view the apk I used for the demo video here: https://drive.google.com/file/d/1ZlUezEV4kjyHFJR31eRsurfVWqzMzE_z/view?usp=sharing
+* Clone the whole repository and launch the app on your emulator, or preferably turn it into an apk and install it on your Android. 
+* You can view the apk I used for the demo video here: https://drive.google.com/file/d/1ZlUezEV4kjyHFJR31eRsurfVWqzMzE_z/view?usp=sharing
